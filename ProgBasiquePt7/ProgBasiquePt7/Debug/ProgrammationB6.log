@@ -1,0 +1,6 @@
+﻿  pb6.cpp
+C:\Users\lorna\source\repos\ProgrammationB6\ProgrammationB6\pb6.cpp(23,12): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\lorna\source\repos\ProgrammationB6\ProgrammationB6\pb6.cpp(26,18): warning C4244:  'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgrammationB6\ProgrammationB6\pb6.cpp(33,18): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgrammationB6\ProgrammationB6\pb6.cpp(35,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+  ProgrammationB6.vcxproj -> C:\Users\lorna\source\repos\ProgrammationB6\Debug\ProgrammationB6.exe

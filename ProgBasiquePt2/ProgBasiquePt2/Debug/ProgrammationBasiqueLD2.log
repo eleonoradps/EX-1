@@ -1,0 +1,6 @@
+﻿  main2.cpp
+C:\Users\lorna\source\repos\ProgrammationBasiqueLD2\ProgrammationBasiqueLD2\main2.cpp(12,22): warning C4244:  'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgrammationBasiqueLD2\ProgrammationBasiqueLD2\main2.cpp(15,17): warning C4244:  'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgrammationBasiqueLD2\ProgrammationBasiqueLD2\main2.cpp(25,18): warning C4244:  'return' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgrammationBasiqueLD2\ProgrammationBasiqueLD2\main2.cpp(28,22): warning C4244:  'return' : conversion de 'double' en 'int', perte possible de données
+  ProgrammationBasiqueLD2.vcxproj -> C:\Users\lorna\source\repos\ProgrammationBasiqueLD2\Debug\ProgrammationBasiqueLD2.exe

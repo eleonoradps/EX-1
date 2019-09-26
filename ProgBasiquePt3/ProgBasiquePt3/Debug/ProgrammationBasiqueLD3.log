@@ -1,0 +1,3 @@
+﻿  main3.cpp
+C:\Users\lorna\source\repos\ProgrammationBasiqueLD3\ProgrammationBasiqueLD3\main3.cpp(26,17): warning C4244:  'initialisation' : conversion de 'int' en 'float', perte possible de données
+  ProgrammationBasiqueLD3.vcxproj -> C:\Users\lorna\source\repos\ProgrammationBasiqueLD3\Debug\ProgrammationBasiqueLD3.exe
